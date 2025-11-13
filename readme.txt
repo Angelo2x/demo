@@ -3,3 +3,4 @@ Je suis sur la branche dev
 Je suis en L2 IRT
 Je dors
 je suis sur le serveur
+utilisation de la commande pull 
